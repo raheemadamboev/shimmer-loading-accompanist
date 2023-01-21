@@ -70,4 +70,7 @@ dependencies {
 
     // lifecycle
     implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.5.1'
+
+    // placeholder
+    implementation "com.google.accompanist:accompanist-placeholder-material:v0.29.0-alpha"
 }
